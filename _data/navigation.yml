@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Home"
+    url: https://matthewjacob.github.io
+  - title: "Research"
+    url: https://matthewjacob.github.io/research
+  - title: "CV"
+    url: https://matthewjacob.github.io/assets/files/matthew_jacob_cv.pdf
   # - title: "Sitemap"
   #   url: /sitemap/

@@ -115,7 +115,7 @@ author:
   name: "Matthew Jacob"
   avatar: "/assets/images/matthew_jacob_headshot.jpeg"
   bio: "PhD Candidate, Harvard"
-  location: "Cambridge, MA"
+  location:
   email:
   links:
     - label: "Email"
