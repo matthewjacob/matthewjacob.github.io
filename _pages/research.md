@@ -19,7 +19,7 @@ author_profile: true
 **Deleting Misconduct: The Expungement of BrokerCheck Records** (with Colleen Honigsberg). _Journal of Financial Economics_, 2021. <br/>
 <small>[<a href="#/" onclick="visib('expungement')">Abstract</a> | [Published Version][expungement_paper] | [WSJ Coverage][expungement_wsj]] </small>
 
-<div id="covid_distancing" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="expungement" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We examine a controversial process, known as expungement, which allows brokers to remove evidence of financial misconduct from public records. From 2007 to 2016, we identify 6660 expungement requests, suggesting that brokers attempt to expunge 12% of the allegations of misconduct reported by customers and firms. When these requests are adjudicated on the merits, arbitrators approve expungement 84% of the time. We show that expungements significantly predict future misconduct; brokers with prior expungements are 3.3 times as likely to engage in new misconduct as the average broker. Further, using an instrumental variable based on the random assignment of arbitrators, we present evidence that brokers who receive expungement are more likely to reoffend than brokers who are denied expungement. We also show that successful expungements improve long-term career prospects.
 </small><br><br/></div>
 
