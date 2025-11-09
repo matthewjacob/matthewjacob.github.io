@@ -1,5 +1,5 @@
 ---
-title: "Research - Matthew Jacob"
+title: ""
 description: "Research on social capital, economic mobility, urban economics, and optimal taxation by Matthew Jacob, Harvard PhD candidate"
 permalink: /research/
 layout: "single"
