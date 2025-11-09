@@ -8,7 +8,7 @@ author_profile: true
 
 # <center> Working Papers </center>
 
-<div style="margin-top: 0.5em;"></div>
+<br/>
 
 **Local Taxes and Suburbanization: Evidence from Philadelphia's Wage Tax** (with René Livas). 2025. <br/>
 <small>[<a href="#/" onclick="visib('wagetax')">Abstract</a> | [Working Paper][wagetax_paper]] </small>
@@ -24,6 +24,8 @@ Do city taxes shift economic activity to the suburbs? We study Philadelphia's wa
 ---
 
 # <center> Published Papers </center>
+
+<br/>
 
 **Social Capital II: Determinants of Economic Connectedness** (with R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. Gong, F. Gonzalez, A. Grondin, D. Johnston, M. Koenen, E. Laguna-Muggenburg, F. Mudekereza, T. Rutter, N. Thor, W. Townsend, R. Zhang, M. Bailey, P. Barberá, M. Bhole, and N. Wernerfelt). _Nature_, 2022. <br/>
 <small>[<a href="#/" onclick="visib('socialcap2')">Abstract</a> | [Published Version][socialcap2_paper] | [NYT Coverage][socialcap2_nyt]] </small>
@@ -61,7 +63,7 @@ We examine a controversial process, known as expungement, which allows brokers t
 
 # <center> Resting Papers </center>
 
-<!-- --- -->
+<br/>
 
 **Optimal Non-Linear Taxation and the Design of Education Policy**. 2017. <br/>
 <small>[<a href="#/" onclick="visib('optimaltax')">Abstract</a> | [Working Paper][optimaltax_paper]] </small>
