@@ -55,7 +55,7 @@ We examine a controversial process, known as expungement, which allows brokers t
 [expungement_paper]:{{ site.baseurl }}{% link assets/files/expungement.pdf %}
 [expungement_wsj]:https://www.wsj.com/articles/finra-arbitrators-let-thousands-of-brokers-purge-infraction-records-1542459600?gaa_at=eafs&gaa_n=ASWzDAhVV9SewH5-Eu00TKU_CKVb2RJd3kzXSFje2XrizTEk_-bTrmHLlG715Fd2oj8%3D&gaa_ts=6886c1ef&gaa_sig=B_3A0vnWuNk12nIg5T9Y1TjLlNOx2GgIdRayesNFDtY7mjp5BHprhZANBZbIH57M-oxJ7MdMCk5h9H2Ts70gWw%3D%3D
 
-<br/>
+<!-- <br/> -->
 
 ---
 
