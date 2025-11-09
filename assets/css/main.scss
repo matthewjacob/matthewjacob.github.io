@@ -13,3 +13,9 @@ search: false
 .page__content h2 .header-link {
 	display: none !important;
 }
+
+// Make author profile photo larger
+.author__avatar img {
+	max-width: 200px !important;
+	border-radius: 50%;
+}
