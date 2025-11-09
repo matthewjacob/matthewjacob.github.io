@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in Public Policy (Economics Track) at the Harvard University Kennedy School of Government. My research interests are in public and labor economics, with a focus on housing, social capital and economic mobility.
+Welcome! I am a PhD candidate in Public Policy (Economics Track) at the Harvard Kennedy School. My research interests are in public and labor economics, with a focus on housing, economic mobility and social capital.
 
-Prior to graduate school, I was a Pre-Doctoral Research Fellow at [Opportunity Insights](https://opportunityinsights.org/) and the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/). I received my BA in Politics, Philosophy and Economics from the Australian National University where I studied as a [Tuckwell Scholar](https://tuckwell.anu.edu.au/).
+I am an [NBER Graduate Fellow](https://www.nber.org/programs-projects/projects-and-centers/fellowships-consumer-financial-management/graduate-student-fellowships-consumer-financial-management-fellows) in Consumer Financial Management, a Contingent Worker in the Central Applied Science Team at Meta, and a Graduate Affiliate at [Opportunity Insights](https://opportunityinsights.org/).
+
+<!-- Prior to graduate school, I was a Pre-Doctoral Research Fellow at [Opportunity Insights](https://opportunityinsights.org/) and the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/). I received my BA in Politics, Philosophy and Economics from the Australian National University where I studied as a [Tuckwell Scholar](https://tuckwell.anu.edu.au/). -->
