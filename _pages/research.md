@@ -10,11 +10,30 @@ author_profile: true
 
 ---
 
+**Local Taxes and Suburbanization: Evidence from Philadelphia's Wage Tax** (with R. Livas). 2025. <br/>
+<small>[<a href="#/" onclick="visib('wagetax')">Abstract</a> | [Working Paper][wagetax_paper]] </small>
+
+<div id="wagetax" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Do city taxes shift economic activity to the suburbs? We study Philadelphia's wage tax, which applies to residents regardless of where they work and to suburban residents who work in the city. Because city residents always pay the tax, it does not distort their workplace choices, whereas suburban residents are penalized only for working in Philadelphia. At the city boundary, rising wage tax rates should sharply reduce commuting to the city in suburban tracts relative to neighboring city tracts, while falling tax rates should increase it. Using a spatial regression discontinuity design, we find that as the wage tax rose from 1.5 to 4.3% between 1960 and 1980, the change in the proportion of residents working in the city fell sharply in suburban tracts just outside the boundary; as the tax fell to 3.4% between 2003 and 2019, the change in that proportion increased sharply in the same tracts. Similar results hold along the boundaries of other cities with wage tax variation, such as Detroit and Cleveland, but not in cities without wage taxes. In our preferred estimate, a 1% increase in the tax rate reduces suburb-to-city commuting by 6.39%, holding wages, rents, and amenities constant. We embed this elasticity in a quantitative spatial model to estimate how the wage tax affects suburbanization once wages and rents adjust. Replacing the wage tax with a non-distortionary land value tax would bring 26,000 jobs from the suburbs into Philadelphia. Such gains triple when we allow for productivity agglomeration forces.
+</small><br><br/></div>
+
+[wagetax_paper]:{{ site.baseurl }}{% link assets/files/wagetax.pdf %}
+
 <br/>
 
 # <center> Published Papers </center>
 
 ---
+
+**Social Capital II: Determinants of Economic Connectedness** (with R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. Gong, F. Gonzalez, A. Grondin, D. Johnston, M. Koenen, E. Laguna-Muggenburg, F. Mudekereza, T. Rutter, N. Thor, W. Townsend, R. Zhang, M. Bailey, P. Barberá, M. Bhole, and N. Wernerfelt). _Nature_, 2022. <br/>
+<small>[<a href="#/" onclick="visib('socialcap2')">Abstract</a> | [Published Version][socialcap2_paper] | [NYT Coverage][socialcap2_nyt]] </small>
+
+<div id="socialcap2" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Low levels of social interaction across class lines have generated widespread concern and are associated with worse outcomes, such as lower rates of upward income mobility. Here we analyse the determinants of cross-class interaction using data from Facebook, building on the analysis in our companion paper. We show that about half of the social disconnection across socioeconomic lines—measured as the difference in the share of high-socioeconomic status (SES) friends between people with low and high SES—is explained by differences in exposure to people with high SES in groups such as schools and religious organizations. The other half is explained by friending bias—the tendency for people with low SES to befriend people with high SES at lower rates even conditional on exposure. Friending bias is shaped by the structure of the groups in which people interact. For example, friending bias is higher in larger and more diverse groups and lower in religious organizations than in schools and workplaces. Distinguishing exposure from friending bias is helpful for identifying interventions to increase cross-SES friendships (economic connectedness). Using fluctuations in the share of students with high SES across high school cohorts, we show that increases in high-SES exposure lead low-SES people to form more friendships with high-SES people in schools that exhibit low levels of friending bias. Thus, socioeconomic integration can increase economic connectedness in communities in which friending bias is low. By contrast, when friending bias is high, increasing cross-SES interactions among existing members may be necessary to increase economic connectedness. To support such efforts, we release privacy-protected statistics on economic connectedness, exposure and friending bias for each ZIP (postal) code, high school and college in the United States at https://www.socialcapital.org.
+</small><br><br/></div>
+
+[socialcap2_paper]:{{ site.baseurl }}{% link assets/files/social_capital_ii.pdf %}
+[socialcap2_nyt]:https://www.nytimes.com/2022/08/01/briefing/economic-ladder-rich-poor-americans.html
 
 **Social Capital I: Measurement and Associations With Economic Mobility** (with R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. Gong, F. Gonzalez, A. Grondin, D. Johnston, M. Koenen, E. Laguna-Muggenburg, F. Mudekereza, T. Rutter, N. Thor, W. Townsend, R. Zhang, M. Bailey, P. Barberá, M. Bhole, and N. Wernerfelt). _Nature_, 2022. <br/>
 <small>[<a href="#/" onclick="visib('socialcap1')">Abstract</a> | [Published Version][socialcap1_paper] | [NYT Coverage][socialcap1_nyt]] </small>
@@ -41,6 +60,17 @@ We examine a controversial process, known as expungement, which allows brokers t
 <br/>
 
 # <center> Resting Papers </center>
+
+---
+
+**Optimal Non-Linear Taxation and the Design of Education Policy**. 2017. <br/>
+<small>[<a href="#/" onclick="visib('optimaltax')">Abstract</a> | [Working Paper][optimaltax_paper]] </small>
+
+<div id="optimaltax" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper studies the design of education policy in an optimal non-linear tax model with asymmetric information. It shows that both heterogeneity in ability and risky human capital investment (or the combination of the two) can provide a theoretical justification for government intervention in education. The sign of the optimal policy is exclusively determined by the Hicksian coefficient of complementarity. Specifically, when education increases (decreases) exposure to risk, or equivalently, when the wage elasticity of education is increasing (decreasing) in ability, the optimal policy is to tax (subsidise) education. But when heterogeneity and risk are combined, the sign of the optimal policy is indeterminate. Numerical results suggest that the magnitude of the optimal policy will depend on the strength of the insurance and redistributive motives. Income-contingent loans or education-dependent taxes and subsidies can implement the optimum.
+</small><br><br/></div>
+
+[optimaltax_paper]:{{ site.baseurl }}{% link assets/files/optimal_tax.pdf %}
 
 [//]: This java script is the button to show abstract
 
