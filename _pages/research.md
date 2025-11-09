@@ -8,7 +8,7 @@ author_profile: true
 
 # <center> Working Papers </center>
 
-<!-- --- -->
+<div style="margin-top: 0.5em;"></div>
 
 **Local Taxes and Suburbanization: Evidence from Philadelphia's Wage Tax** (with René Livas). 2025. <br/>
 <small>[<a href="#/" onclick="visib('wagetax')">Abstract</a> | [Working Paper][wagetax_paper]] </small>

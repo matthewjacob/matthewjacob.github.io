@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/>
+<div style="margin-top: 0.5em;"></div>
 
 Welcome! I am a PhD candidate in Public Policy (Economics Track) at the Harvard Kennedy School. My research interests are in public and labor economics, with a focus on housing, economic mobility and social capital.
 
