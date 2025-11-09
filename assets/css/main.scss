@@ -7,3 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Hide permalink anchors on headings
+.page__content h1 .header-link,
+.page__content h2 .header-link {
+	display: none !important;
+}

@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 
+<br/>
+
 Welcome! I am a PhD candidate in Public Policy (Economics Track) at the Harvard Kennedy School. My research interests are in public and labor economics, with a focus on housing, economic mobility and social capital.
 
 I am an [NBER Graduate Fellow](https://www.nber.org/programs-projects/projects-and-centers/fellowships-consumer-financial-management/graduate-student-fellowships-consumer-financial-management-fellows) in Consumer Financial Management, a Contingent Worker in the Central Applied Science Team at Meta, and a Graduate Affiliate at [Opportunity Insights](https://opportunityinsights.org/).
