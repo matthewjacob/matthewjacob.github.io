@@ -15,27 +15,20 @@ search: false
 }
 
 // Make author profile photo larger
-@media (min-width: 120em) {
-	.author__avatar {
-		display: table-cell;
-		vertical-align: top;
-		width: 120px;
-		height: 120px;
+.author__avatar {
+	display: table-cell;
+	vertical-align: top;
+	width: 200px;
+	height: 200px;
 
-		@include breakpoint($large) {
-			display: block;
-			width: auto;
-			height: auto;
-		}
+	@include breakpoint($large) {
+		display: block;
+		width: auto;
+		height: auto;
+	}
 
-		img {
-			max-width: 200px;
-			border-radius: 50%;
-
-			@include breakpoint($large) {
-				padding: 5px;
-				border: 1px solid $border-color;
-			}
-		}
+	img {
+		max-width: 200px;
+		border-radius: 50%;
 	}
 }
