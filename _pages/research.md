@@ -8,9 +8,9 @@ author_profile: true
 
 # <center> Working Papers </center>
 
----
+<!-- --- -->
 
-**Local Taxes and Suburbanization: Evidence from Philadelphia's Wage Tax** (with R. Livas). 2025. <br/>
+**Local Taxes and Suburbanization: Evidence from Philadelphia's Wage Tax** (with René Livas). 2025. <br/>
 <small>[<a href="#/" onclick="visib('wagetax')">Abstract</a> | [Working Paper][wagetax_paper]] </small>
 
 <div id="wagetax" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -19,11 +19,11 @@ Do city taxes shift economic activity to the suburbs? We study Philadelphia's wa
 
 [wagetax_paper]:{{ site.baseurl }}{% link assets/files/wagetax.pdf %}
 
-<br/>
-
-# <center> Published Papers </center>
+<!-- <br/> -->
 
 ---
+
+# <center> Published Papers </center>
 
 **Social Capital II: Determinants of Economic Connectedness** (with R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. Gong, F. Gonzalez, A. Grondin, D. Johnston, M. Koenen, E. Laguna-Muggenburg, F. Mudekereza, T. Rutter, N. Thor, W. Townsend, R. Zhang, M. Bailey, P. Barberá, M. Bhole, and N. Wernerfelt). _Nature_, 2022. <br/>
 <small>[<a href="#/" onclick="visib('socialcap2')">Abstract</a> | [Published Version][socialcap2_paper] | [NYT Coverage][socialcap2_nyt]] </small>
@@ -55,13 +55,13 @@ We examine a controversial process, known as expungement, which allows brokers t
 [expungement_paper]:{{ site.baseurl }}{% link assets/files/expungement.pdf %}
 [expungement_wsj]:https://www.wsj.com/articles/finra-arbitrators-let-thousands-of-brokers-purge-infraction-records-1542459600?gaa_at=eafs&gaa_n=ASWzDAhVV9SewH5-Eu00TKU_CKVb2RJd3kzXSFje2XrizTEk_-bTrmHLlG715Fd2oj8%3D&gaa_ts=6886c1ef&gaa_sig=B_3A0vnWuNk12nIg5T9Y1TjLlNOx2GgIdRayesNFDtY7mjp5BHprhZANBZbIH57M-oxJ7MdMCk5h9H2Ts70gWw%3D%3D
 
----
-
 <br/>
+
+---
 
 # <center> Resting Papers </center>
 
----
+<!-- --- -->
 
 **Optimal Non-Linear Taxation and the Design of Education Policy**. 2017. <br/>
 <small>[<a href="#/" onclick="visib('optimaltax')">Abstract</a> | [Working Paper][optimaltax_paper]] </small>
