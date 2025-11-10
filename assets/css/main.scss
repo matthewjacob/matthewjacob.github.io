@@ -30,14 +30,20 @@ search: false
 	img {
 		max-width: 200px;
 		border-radius: 50%;
-		opacity: 1 !important;
-		filter: none !important;
-		-webkit-filter: none !important;
 	}
 }
 
-// Keep photo normal on hover too
-.author__avatar:hover img {
+// Fix opacity/washed out effect
+.u-photo {
+	opacity: 1 !important;
+	filter: none !important;
+	-webkit-filter: none !important;
+	transition: none !important;
+}
+
+// Override hover states
+.author__avatar:hover .u-photo,
+.author__avatar a:hover .u-photo {
 	opacity: 1 !important;
 	filter: none !important;
 	-webkit-filter: none !important;
