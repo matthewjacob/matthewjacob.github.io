@@ -7,7 +7,7 @@ classes: wide
 author_profile: true
 ---
 
-# Working Papers
+<h1 style="border-bottom: 1px solid #000; padding-bottom: 0.3em;">Working Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 
@@ -20,11 +20,9 @@ Do city taxes shift economic activity to the suburbs? We study Philadelphia's wa
 
 [wagetax_paper]:{{ site.baseurl }}{% link assets/files/wagetax.pdf %}
 
-<!-- <br/> -->
+<div style="margin-top: 0.5em;"></div>
 
----
-
-# Published Papers
+<h1 style="border-bottom: 1px solid #000; padding-bottom: 0.3em;">Published Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 
@@ -58,11 +56,9 @@ We examine a controversial process, known as expungement, which allows brokers t
 [expungement_paper]:{{ site.baseurl }}{% link assets/files/expungement.pdf %}
 [expungement_wsj]:https://www.wsj.com/articles/finra-arbitrators-let-thousands-of-brokers-purge-infraction-records-1542459600?gaa_at=eafs&gaa_n=ASWzDAhVV9SewH5-Eu00TKU_CKVb2RJd3kzXSFje2XrizTEk_-bTrmHLlG715Fd2oj8%3D&gaa_ts=6886c1ef&gaa_sig=B_3A0vnWuNk12nIg5T9Y1TjLlNOx2GgIdRayesNFDtY7mjp5BHprhZANBZbIH57M-oxJ7MdMCk5h9H2Ts70gWw%3D%3D
 
-<!-- <br/> -->
+<div style="margin-top: 0.5em;"></div>
 
----
-
-<h1 style="border-bottom: 2px solid #000; padding-bottom: 0.3em;">Resting Papers</h1>
+<h1 style="border-bottom: 1px solid #000; padding-bottom: 0.3em;">Resting Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 
