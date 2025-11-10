@@ -31,9 +31,16 @@ search: false
 		max-width: 200px;
 		border-radius: 50%;
 	}
+
+	// Target the link wrapper
+	a {
+		opacity: 1 !important;
+	}
 }
 
-// Fix opacity/washed out effect
+// Fix opacity on image and link
+.author__avatar a,
+.author__avatar a img,
 .u-photo {
 	opacity: 1 !important;
 	filter: none !important;
@@ -41,9 +48,11 @@ search: false
 	transition: none !important;
 }
 
-// Override hover states
-.author__avatar:hover .u-photo,
-.author__avatar a:hover .u-photo {
+// Override all hover states
+.author__avatar:hover a,
+.author__avatar a:hover,
+.author__avatar a:hover img,
+.author__avatar:hover .u-photo {
 	opacity: 1 !important;
 	filter: none !important;
 	-webkit-filter: none !important;
