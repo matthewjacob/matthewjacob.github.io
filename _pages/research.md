@@ -7,7 +7,7 @@ classes: wide
 author_profile: true
 ---
 
-<h1 style="border-bottom: 1px solid #000; padding-bottom: 0.3em;">Working Papers</h1>
+<h1 class="section-header">Published Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 

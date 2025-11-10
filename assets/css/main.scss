@@ -35,6 +35,13 @@ search: false
 	}
 }
 
+// Remove underlines from bold paper title links
+.page__content strong a,
+.page__content strong a:hover {
+	text-decoration: none !important;
+	color: #0092ca !important;
+}
+
 // Smaller on mobile
 @media (max-width: 63.9375em) {
 	.author__avatar {
@@ -45,6 +52,12 @@ search: false
 	.author__avatar img {
 		max-width: 110px;
 	}
+}
+
+// Header section borders
+.section-header {
+	border-bottom: 1px solid $border-color;
+	padding-bottom: 0.3em;
 }
 
 // Fix sidebar opacity
