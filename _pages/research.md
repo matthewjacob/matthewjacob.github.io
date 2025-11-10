@@ -36,7 +36,7 @@ Low levels of social interaction across class lines have generated widespread co
 [socialcap2_paper]:{{ site.baseurl }}{% link assets/files/social_capital_ii.pdf %}
 [socialcap2_nyt]:https://www.nytimes.com/2022/08/01/briefing/economic-ladder-rich-poor-americans.html
 
-**Social Capital I: Measurement and Associations With Economic Mobility** (with R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. Gong, F. Gonzalez, A. Grondin, D. Johnston, M. Koenen, E. Laguna-Muggenburg, F. Mudekereza, T. Rutter, N. Thor, W. Townsend, R. Zhang, M. Bailey, P. Barberá, M. Bhole, and N. Wernerfelt). _Nature_, 2022. <br/>
+**Social Capital I: Measurement and Associations With Economic Mobility** (with R. Chetty et al.). _Nature_, 2022. <br/>
 <small>[<a href="#/" onclick="visib('socialcap1')">Abstract</a> | [Published Version][socialcap1_paper] | [NYT Coverage][socialcap1_nyt]] </small>
 
 <div id="socialcap1" style="display: none; text-align: justify; line-height: 1.2" ><small>
