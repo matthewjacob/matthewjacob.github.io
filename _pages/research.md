@@ -20,9 +20,11 @@ Do city taxes shift economic activity to the suburbs? We study Philadelphia's wa
 
 [wagetax_paper]:{{ site.baseurl }}{% link assets/files/wagetax.pdf %}
 
-<div style="margin-top: 1em;"></div>
+<div style="margin-top: 1.25em;"></div>
 
-<h1 style="border-bottom: 1px solid #cecfd1; padding-bottom: 0.3em;">Published Papers</h1>
+<h1>Published Papers</h1>
+
+<!-- <h1 style="border-bottom: 1px solid #cecfd1; padding-bottom: 0.3em;">Published Papers</h1> -->
 
 <div style="margin-top: 0.5em;"></div>
 
