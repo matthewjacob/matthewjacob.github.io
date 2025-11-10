@@ -33,6 +33,18 @@ search: false
 	}
 }
 
+// Smaller on mobile
+@media (max-width: 63.9375em) {
+	.author__avatar {
+		width: 110px;
+		height: 110px;
+	}
+
+	.author__avatar img {
+		max-width: 110px;
+	}
+}
+
 // Fix sidebar opacity
 @media (min-width: 64em) {
 	.sidebar {
