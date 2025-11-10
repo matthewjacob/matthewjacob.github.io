@@ -20,13 +20,16 @@ Do city taxes shift economic activity to the suburbs? We study Philadelphia's wa
 
 [wagetax_paper]:{{ site.baseurl }}{% link assets/files/wagetax.pdf %}
 
-<div style="margin-top: 0.75em;"></div>
+<div style="margin-top: 1em;"></div>
 
 <h1 style="border-bottom: 1px solid #000; padding-bottom: 0.3em;">Published Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 
-**Social Capital II: Determinants of Economic Connectedness** (with R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. Gong, F. Gonzalez, A. Grondin, D. Johnston, M. Koenen, E. Laguna-Muggenburg, F. Mudekereza, T. Rutter, N. Thor, W. Townsend, R. Zhang, M. Bailey, P. Barberá, M. Bhole, and N. Wernerfelt). _Nature_, 2022. <br/>
+<!--
+R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. Gong, F. Gonzalez, A. Grondin, D. Johnston, M. Koenen, E. Laguna-Muggenburg, F. Mudekereza, T. Rutter, N. Thor, W. Townsend, R. Zhang, M. Bailey, P. Barberá, M. Bhole, and N. Wernerfelt -->
+
+**Social Capital II: Determinants of Economic Connectedness** (with R. Chetty, M.O. Jackson, T. Kuchler et al.). _Nature_, 2022. <br/>
 <small>[<a href="#/" onclick="visib('socialcap2')">Abstract</a> | [Published Version][socialcap2_paper] | [NYT Coverage][socialcap2_nyt]] </small>
 
 <div id="socialcap2" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -36,7 +39,7 @@ Low levels of social interaction across class lines have generated widespread co
 [socialcap2_paper]:{{ site.baseurl }}{% link assets/files/social_capital_ii.pdf %}
 [socialcap2_nyt]:https://www.nytimes.com/2022/08/01/briefing/economic-ladder-rich-poor-americans.html
 
-**Social Capital I: Measurement and Associations With Economic Mobility** (with R. Chetty et al.). _Nature_, 2022. <br/>
+**Social Capital I: Measurement and Associations With Economic Mobility** (with R. Chetty, M.O. Jackson, T. Kuchler et al.). _Nature_, 2022. <br/>
 <small>[<a href="#/" onclick="visib('socialcap1')">Abstract</a> | [Published Version][socialcap1_paper] | [NYT Coverage][socialcap1_nyt]] </small>
 
 <div id="socialcap1" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -56,7 +59,7 @@ We examine a controversial process, known as expungement, which allows brokers t
 [expungement_paper]:{{ site.baseurl }}{% link assets/files/expungement.pdf %}
 [expungement_wsj]:https://www.wsj.com/articles/finra-arbitrators-let-thousands-of-brokers-purge-infraction-records-1542459600?gaa_at=eafs&gaa_n=ASWzDAhVV9SewH5-Eu00TKU_CKVb2RJd3kzXSFje2XrizTEk_-bTrmHLlG715Fd2oj8%3D&gaa_ts=6886c1ef&gaa_sig=B_3A0vnWuNk12nIg5T9Y1TjLlNOx2GgIdRayesNFDtY7mjp5BHprhZANBZbIH57M-oxJ7MdMCk5h9H2Ts70gWw%3D%3D
 
-<div style="margin-top: 0.75em;"></div>
+<div style="margin-top: 1em;"></div>
 
 <h1 style="border-bottom: 1px solid #000; padding-bottom: 0.3em;">Resting Papers</h1>
 
