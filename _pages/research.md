@@ -7,7 +7,7 @@ classes: wide
 author_profile: true
 ---
 
-<h1 style="border-bottom: 1px solid #cecfd1; padding-bottom: 0.3em;">Working Papers</h1>
+<h1>Working Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 
@@ -29,7 +29,7 @@ Do city taxes shift economic activity to the suburbs? We study Philadelphia's wa
 <!--
 R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. Gong, F. Gonzalez, A. Grondin, D. Johnston, M. Koenen, E. Laguna-Muggenburg, F. Mudekereza, T. Rutter, N. Thor, W. Townsend, R. Zhang, M. Bailey, P. Barberá, M. Bhole, and N. Wernerfelt -->
 
-**[Social Capital II: Determinants of Economic Connectedness](https://www.nature.com/articles/s41586-022-04997-3)** (with R. Chetty, M.O. Jackson, T. Kuchler et al.). _Nature_, 2022. <br/>
+**Social Capital II: Determinants of Economic Connectedness** (with R. Chetty, M.O. Jackson, T. Kuchler et al.). _Nature_, 2022. <br/>
 <small>[<a href="#/" onclick="visib('socialcap2')">Abstract</a> | [Published Version][socialcap2_paper] | [NYT Coverage][socialcap2_nyt]] </small>
 
 <div id="socialcap2" style="display: none; text-align: justify; line-height: 1.2" ><small>
