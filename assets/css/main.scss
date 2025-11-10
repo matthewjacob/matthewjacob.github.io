@@ -35,9 +35,13 @@ search: false
 	}
 }
 
-// Remove underlines from bold paper title links
+// Remove underlines from bold paper title links - nuclear option
+.page__content strong a:-webkit-any-link,
 .page__content strong a,
-.page__content strong a:hover {
+.page__content strong a:link,
+.page__content strong a:visited,
+.page__content strong a:hover,
+.page__content strong a:active {
 	text-decoration: none !important;
 	color: #0092ca !important;
 }

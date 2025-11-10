@@ -7,7 +7,7 @@ classes: wide
 author_profile: true
 ---
 
-<h1 class="section-header">Published Papers</h1>
+<h1 style="border-bottom: 1px solid #cecfd1; padding-bottom: 0.3em;">Working Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 
@@ -22,7 +22,7 @@ Do city taxes shift economic activity to the suburbs? We study Philadelphia's wa
 
 <div style="margin-top: 1em;"></div>
 
-<h1 style="border-bottom: 1px solid #000; padding-bottom: 0.3em;">Published Papers</h1>
+<h1 style="border-bottom: 1px solid #cecfd1; padding-bottom: 0.3em;">Published Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 
@@ -61,7 +61,7 @@ We examine a controversial process, known as expungement, which allows brokers t
 
 <div style="margin-top: 1em;"></div>
 
-<h1 style="border-bottom: 1px solid #000; padding-bottom: 0.3em;">Resting Papers</h1>
+<h1 style="border-bottom: 1px solid #cecfd1; padding-bottom: 0.3em;">Resting Papers</h1>
 
 <div style="margin-top: 0.5em;"></div>
 
