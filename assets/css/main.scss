@@ -30,5 +30,15 @@ search: false
 	img {
 		max-width: 200px;
 		border-radius: 50%;
+		opacity: 1 !important;
+		filter: none !important;
+		-webkit-filter: none !important;
 	}
+}
+
+// Keep photo normal on hover too
+.author__avatar:hover img {
+	opacity: 1 !important;
+	filter: none !important;
+	-webkit-filter: none !important;
 }
