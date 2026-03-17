@@ -1,3 +1,13 @@
 <!-- start custom footer snippets -->
 
+<script>
+  // Open CV link in a new tab
+  document.querySelectorAll('.greedy-nav a').forEach(function(link) {
+    if (link.textContent.trim() === 'CV') {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener');
+    }
+  });
+</script>
+
 <!-- end custom footer snippets -->

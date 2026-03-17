@@ -12,12 +12,17 @@ Matthew Jacob's personal academic website (PhD Candidate, Harvard). Built on the
 # Install dependencies
 bundle install
 
-# Run local development server at http://localhost:4000/test/
-bundle exec rake preview
+# Run local development server (detached) at http://127.0.0.1:4000
+export PATH="$HOME/.rbenv/bin:/opt/homebrew/bin:$PATH" && eval "$(rbenv init -)" && bundle exec jekyll serve --detach
+
+# Stop the server (replace PID with the one printed above)
+kill -9 <PID>
 
 # Minify JavaScript (after editing assets/js/_main.js)
 bundle exec rake js
 ```
+
+After any change, spin up the preview server so the user can verify at **http://127.0.0.1:4000** before pushing.
 
 JavaScript is authored in `assets/js/_main.js` and built to `assets/js/main.min.js`. Run `rake js` after any JS changes.
 
