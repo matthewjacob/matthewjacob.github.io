@@ -64,6 +64,35 @@ search: false
 	padding-bottom: 0.3em;
 }
 
+// Research page section labels
+.section-label {
+	font-size: 0.8em;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	color: $muted-text-color;
+	border-bottom: 1px solid $border-color;
+	padding-bottom: 0.3em;
+	margin-bottom: 1em;
+}
+
+// Paper title links - dark, no underline by default
+.page__content strong a {
+	color: $text-color;
+	text-decoration: none;
+}
+
+.page__content strong a:hover {
+	text-decoration: underline;
+}
+
+// Expanded abstract styling
+.abstract-block {
+	border-left: 3px solid $border-color;
+	padding-left: 1em;
+	margin-top: 0.5em;
+}
+
 // Fix sidebar opacity
 @media (min-width: 64em) {
 	.sidebar {
