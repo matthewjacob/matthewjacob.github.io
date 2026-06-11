@@ -9,6 +9,18 @@ author_profile: true
 
 <h2 class="section-label">Working Papers</h2>
 
+**[Who Leads? Relative Age Effects on Social Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6844065)** <br/>
+<small>With Mike Bailey. 2026.</small> <br/>
+<small><a href="#/" onclick="visib('relativeage')">Abstract</a> · [Working Paper][relativeage_paper]</small>
+
+<div id="relativeage" class="abstract-block" style="display: none; text-align: justify; line-height: 1.2"><small>
+This paper studies the causal effect of being the oldest within a school cohort on social capital. Using a fuzzy regression discontinuity design and data from Facebook, we find that boys who are older than their classmates make 11% more friends in high school. This social advantage is associated with leadership roles, with relatively older boys 42% more likely to become class president than their relatively younger peers. Men who were relatively older during childhood have larger social networks in adulthood, and disproportionately sort into management and entrepreneurship. Our findings suggest that small age differences in peer composition can have persistent effects on social and economic outcomes.
+</small><br><br/></div>
+
+[relativeage_paper]:{{ site.baseurl }}{% link assets/files/relative_age.pdf %}
+
+<div style="margin-top: 1.25em;"></div>
+
 **[Local Taxes and Suburbanization: Evidence from Philadelphia's Wage Tax](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6331260)** <br/>
 <small>With René Livas. 2025.</small> <br/>
 <small><a href="#/" onclick="visib('wagetax')">Abstract</a> · [Working Paper][wagetax_paper]</small>
