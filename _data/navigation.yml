@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Home"
-    url: https://matthewjacob.github.io
+    url: /
   - title: "Research"
-    url: https://matthewjacob.github.io/research
+    url: /research/
   - title: "CV"
-    url: https://matthewjacob.github.io/assets/files/matthew_jacob_cv.pdf
+    url: /assets/files/matthew_jacob_cv.pdf
   # - title: "Sitemap"
   #   url: /sitemap/

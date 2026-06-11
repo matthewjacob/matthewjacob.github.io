@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Matthew Jacob"
+description: "Matthew Jacob is a PhD candidate in Public Policy (Economics) at Harvard, researching public and labor economics, housing, intergenerational mobility, and social capital."
 layout: "single"
 classes: wide
 author_profile: true
