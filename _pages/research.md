@@ -11,25 +11,31 @@ author_profile: true
 
 **[Who Leads? Relative Age Effects on Social Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6844065)** <br/>
 <small>With Mike Bailey. 2026.</small> <br/>
-<small><a href="#/" onclick="visib('relativeage')">Abstract</a> · [Working Paper][relativeage_paper]</small>
+<small><a href="#/" onclick="visib('relativeage')">Abstract</a> · [Working Paper][relativeage_paper]</small> <br/>
+<small>Media Coverage: [Marginal Revolution][relativeage_mr]</small>
 
 <div id="relativeage" class="abstract-block" style="display: none; text-align: justify; line-height: 1.2"><small>
 This paper studies the causal effect of being the oldest within a school cohort on social capital. Using a fuzzy regression discontinuity design and data from Facebook, we find that boys who are older than their classmates make 11% more friends in high school. This social advantage is associated with leadership roles, with relatively older boys 42% more likely to become class president than their relatively younger peers. Men who were relatively older during childhood have larger social networks in adulthood, and disproportionately sort into management and entrepreneurship. Our findings suggest that small age differences in peer composition can have persistent effects on social and economic outcomes.
 </small><br><br/></div>
 
 [relativeage_paper]:{{ site.baseurl }}{% link assets/files/relative_age.pdf %}
+[relativeage_mr]:https://marginalrevolution.com/marginalrevolution/2026/06/who-leads-relative-age-effects-on-social-capital.html
 
 <div style="margin-top: 1.25em;"></div>
 
 **[Local Taxes and Suburbanization: Evidence from Philadelphia's Wage Tax](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6331260)** <br/>
 <small>With René Livas. 2025.</small> <br/>
-<small><a href="#/" onclick="visib('wagetax')">Abstract</a> · [Working Paper][wagetax_paper]</small>
+<small><a href="#/" onclick="visib('wagetax')">Abstract</a> · [Working Paper][wagetax_paper]</small> <br/>
+<small>Media Coverage: [Broad & Liberty][wagetax_bal] · [Vital City][wagetax_vc]</small> <br/>
+<small><em>Awards: IPUMS Excellence in Research (2025) · John Clapp Best Poster, AREUEA/ASSA 2026 · UEA Best Student Paper (HM)</em></small>
 
 <div id="wagetax" class="abstract-block" style="display: none; text-align: justify; line-height: 1.2"><small>
 Do city taxes shift economic activity to the suburbs? We study Philadelphia's wage tax, which applies to residents regardless of where they work and to suburban residents who work in the city. Because city residents always pay the tax, it does not distort their workplace choices, whereas suburban residents are penalized only for working in Philadelphia. At the city boundary, rising wage tax rates should sharply reduce commuting to the city in suburban tracts relative to neighboring city tracts, while falling tax rates should increase it. Using a spatial regression discontinuity design, we find that as the wage tax rose from 1.5 to 4.3% between 1960 and 1980, the change in the proportion of residents working in the city fell sharply in suburban tracts just outside the boundary; as the tax fell to 3.4% between 2003 and 2019, the change in that proportion increased sharply in the same tracts. Similar results hold along the boundaries of other cities with wage tax variation, such as Detroit and Cleveland, but not in cities without wage taxes. In our preferred estimate, a 1% increase in the tax rate reduces suburb-to-city commuting by 6.39%, holding wages, rents, and amenities constant. We embed this elasticity in a quantitative spatial model to estimate how the wage tax affects suburbanization once wages and rents adjust. Replacing the wage tax with a non-distortionary land value tax would bring 26,000 jobs from the suburbs into Philadelphia. Such gains triple when we allow for productivity agglomeration forces.
 </small><br><br/></div>
 
 [wagetax_paper]:{{ site.baseurl }}{% link assets/files/wagetax.pdf %}
+[wagetax_bal]:https://broadandliberty.com/2026/04/08/russell-richie-philadelphias-job-killing-wage-tax-and-a-better-alternative/
+[wagetax_vc]:https://www.vitalcitynyc.org/nyc-economy-zohran-mamdani-efficiency/
 
 <div style="margin-top: 1.25em;"></div>
 
@@ -40,7 +46,8 @@ R. Chetty, M.O. Jackson, T. Kuchler, J. Stroebel, N. Hendren, R.B. Fluegge, S. G
 
 **[Social Capital II: Determinants of Economic Connectedness](https://www.nature.com/articles/s41586-022-04997-3)** <br/>
 <small>With R. Chetty, M.O. Jackson, T. Kuchler et al. _Nature_, 2022.</small> <br/>
-<small><a href="#/" onclick="visib('socialcap2')">Abstract</a> · [Published Version][socialcap2_paper] · [NYT Coverage][socialcap2_nyt]</small>
+<small><a href="#/" onclick="visib('socialcap2')">Abstract</a> · [Published Version][socialcap2_paper]</small> <br/>
+<small>Media Coverage: [New York Times][socialcap2_nyt]</small>
 
 <div id="socialcap2" class="abstract-block" style="display: none; text-align: justify; line-height: 1.2"><small>
 Low levels of social interaction across class lines have generated widespread concern and are associated with worse outcomes, such as lower rates of upward income mobility. Here we analyse the determinants of cross-class interaction using data from Facebook, building on the analysis in our companion paper. We show that about half of the social disconnection across socioeconomic lines—measured as the difference in the share of high-socioeconomic status (SES) friends between people with low and high SES—is explained by differences in exposure to people with high SES in groups such as schools and religious organizations. The other half is explained by friending bias—the tendency for people with low SES to befriend people with high SES at lower rates even conditional on exposure. Friending bias is shaped by the structure of the groups in which people interact. For example, friending bias is higher in larger and more diverse groups and lower in religious organizations than in schools and workplaces. Distinguishing exposure from friending bias is helpful for identifying interventions to increase cross-SES friendships (economic connectedness). Using fluctuations in the share of students with high SES across high school cohorts, we show that increases in high-SES exposure lead low-SES people to form more friendships with high-SES people in schools that exhibit low levels of friending bias. Thus, socioeconomic integration can increase economic connectedness in communities in which friending bias is low. By contrast, when friending bias is high, increasing cross-SES interactions among existing members may be necessary to increase economic connectedness. To support such efforts, we release privacy-protected statistics on economic connectedness, exposure and friending bias for each ZIP (postal) code, high school and college in the United States at https://www.socialcapital.org.
@@ -53,7 +60,8 @@ Low levels of social interaction across class lines have generated widespread co
 
 **[Social Capital I: Measurement and Associations With Economic Mobility](https://www.nature.com/articles/s41586-022-04996-4)** <br/>
 <small>With R. Chetty, M.O. Jackson, T. Kuchler et al. _Nature_, 2022.</small> <br/>
-<small><a href="#/" onclick="visib('socialcap1')">Abstract</a> · [Published Version][socialcap1_paper] · [NYT Coverage][socialcap1_nyt]</small>
+<small><a href="#/" onclick="visib('socialcap1')">Abstract</a> · [Published Version][socialcap1_paper]</small> <br/>
+<small>Media Coverage: [New York Times][socialcap1_nyt]</small>
 
 <div id="socialcap1" class="abstract-block" style="display: none; text-align: justify; line-height: 1.2"><small>
 Social capital—the strength of an individual's social network and community—has been identified as a potential determinant of outcomes ranging from education to health. However, efforts to understand what types of social capital matter for these outcomes have been hindered by a lack of social network data. Here, in the first of a pair of papers, we use data on 21 billion friendships from Facebook to study social capital. We measure and analyse three types of social capital by ZIP (postal) code in the United States: (1) connectedness between different types of people, such as those with low versus high socioeconomic status (SES); (2) social cohesion, such as the extent of cliques in friendship networks; and (3) civic engagement, such as rates of volunteering. These measures vary substantially across areas, but are not highly correlated with each other. We demonstrate the importance of distinguishing these forms of social capital by analysing their associations with economic mobility across areas. The share of high-SES friends among individuals with low SES—which we term economic connectedness—is among the strongest predicters of upward income mobility identified to date. Other social capital measures are not strongly associated with economic mobility. If children with low-SES parents were to grow up in counties with economic connectedness comparable to that of the average child with high-SES parents, their incomes in adulthood would increase by 20% on average. Differences in economic connectedness can explain well-known relationships between upward income mobility and racial segregation, poverty rates, and inequality. To support further research and policy interventions, we publicly release privacy-protected statistics on social capital by ZIP code at https://www.socialcapital.org.
@@ -66,7 +74,8 @@ Social capital—the strength of an individual's social network and community—
 
 **[Deleting Misconduct: The Expungement of BrokerCheck Records](https://www.sciencedirect.com/science/article/abs/pii/S0304405X20302774)** <br/>
 <small>With Colleen Honigsberg. _Journal of Financial Economics_, 2021.</small> <br/>
-<small><a href="#/" onclick="visib('expungement')">Abstract</a> · [Published Version][expungement_paper] · [WSJ Coverage][expungement_wsj]</small>
+<small><a href="#/" onclick="visib('expungement')">Abstract</a> · [Published Version][expungement_paper]</small> <br/>
+<small>Media Coverage: [Wall Street Journal][expungement_wsj]</small>
 
 <div id="expungement" class="abstract-block" style="display: none; text-align: justify; line-height: 1.2"><small>
 We examine a controversial process, known as expungement, which allows brokers to remove evidence of financial misconduct from public records. From 2007 to 2016, we identify 6660 expungement requests, suggesting that brokers attempt to expunge 12% of the allegations of misconduct reported by customers and firms. When these requests are adjudicated on the merits, arbitrators approve expungement 84% of the time. We show that expungements significantly predict future misconduct; brokers with prior expungements are 3.3 times as likely to engage in new misconduct as the average broker. Further, using an instrumental variable based on the random assignment of arbitrators, we present evidence that brokers who receive expungement are more likely to reoffend than brokers who are denied expungement. We also show that successful expungements improve long-term career prospects.
