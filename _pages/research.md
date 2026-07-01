@@ -12,7 +12,7 @@ author_profile: true
 **[Who Leads? Relative Age Effects on Social Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6844065)** <br/>
 <small>With Mike Bailey. 2026.</small> <br/>
 <small><a href="#/" onclick="visib('relativeage')">Abstract</a> · [Working Paper][relativeage_paper]</small> <br/>
-<small>Media Coverage: [Marginal Revolution][relativeage_mr]</small>
+<small>Media Coverage: [Marginal Revolution][relativeage_mr] · [American Institute for Boys and Men][relativeage_aibm]</small>
 
 <div id="relativeage" class="abstract-block" style="display: none; text-align: justify; line-height: 1.2"><small>
 This paper studies the causal effect of being the oldest within a school cohort on social capital. Using a fuzzy regression discontinuity design and data from Facebook, we find that boys who are older than their classmates make 11% more friends in high school. This social advantage is associated with leadership roles, with relatively older boys 42% more likely to become class president than their relatively younger peers. Men who were relatively older during childhood have larger social networks in adulthood, and disproportionately sort into management and entrepreneurship. Our findings suggest that small age differences in peer composition can have persistent effects on social and economic outcomes.
@@ -20,6 +20,7 @@ This paper studies the causal effect of being the oldest within a school cohort 
 
 [relativeage_paper]:{{ site.baseurl }}{% link assets/files/relative_age.pdf %}
 [relativeage_mr]:https://marginalrevolution.com/marginalrevolution/2026/06/who-leads-relative-age-effects-on-social-capital.html
+[relativeage_aibm]:https://aibm.org/research/born-to-lead-the-social-advantage-of-being-the-oldest-in-your-school-cohort/
 
 <div style="margin-top: 1.25em;"></div>
 
